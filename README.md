@@ -6,6 +6,9 @@ A reliable and high-precision **Digital Compass** with a classic aesthetic, buil
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/jp/app/id6758898828)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/gKvyT9Znj6s/0.jpg)](https://www.youtube.com/watch?v=gKvyT9Znj6s)
+
 ## 🌟 Key Features
 - **Accurate Orientation:** Real-time heading data using device hardware sensors.
 - **Classic Retro UI:** A beautiful, easy-to-read vintage compass interface.
